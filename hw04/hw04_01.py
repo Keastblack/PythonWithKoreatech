@@ -1,5 +1,6 @@
 #/ust/local/bin/python
 # coding: utf-8
+# 왔다 감 ㅋㅋㅋㅋㅋ
 import sys, os, math
 
 def cmp_1(a1, a2):
